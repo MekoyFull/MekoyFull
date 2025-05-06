@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MekoyFull
-- 👀 I’m interested in Software Programming 
+- 👀 I’m interested in Software engineering 
 - 🌱 I’m currently learning CS50
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me TalalAlshehriW@gmail.com
